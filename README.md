@@ -11,4 +11,4 @@
 - [機械学習による株価予測　はじめようNumerai](https://qiita.com/blog_UKI/items/fb401725288e58c92bd6)  
 - [一年以上をかけたポートフォリオ達](https://cattleya.hatenablog.com/entry/2020/03/11/060054)  
 - [Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)  
--[Discordに投票機能をつける](https://ikayome.hateblo.jp/entry/2018/11/12/122033)  
+- [Discordに投票機能をつける](https://ikayome.hateblo.jp/entry/2018/11/12/122033)  
