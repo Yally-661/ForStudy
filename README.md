@@ -13,3 +13,4 @@
 - [Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)  
 - [Discordに投票機能をつける](https://ikayome.hateblo.jp/entry/2018/11/12/122033)  
 - [Flaskの簡単な使い方](https://qiita.com/zaburo/items/5091041a5afb2a7dffc8)  
+- [SQLAlchemyで基本的なSQLクエリまとめ](https://qiita.com/tomo0/items/a762b1bc0f192a55eae8)  
